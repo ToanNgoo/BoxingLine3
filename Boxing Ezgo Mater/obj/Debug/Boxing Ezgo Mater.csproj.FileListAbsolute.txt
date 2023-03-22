@@ -1,0 +1,137 @@
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Boxing line 3 Ezgo Master\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\OptionDefine.dll
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver2\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\SDIV\Desktop\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\SDIV\Desktop\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\SDIV\Desktop\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\SDIV\Desktop\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver4\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver5\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver6\Boxing line 3\Boxing Ezgo Mater\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\SDIV\Desktop\boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\Ver7\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver2\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.ConPCLcal.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.HistoryUse.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.ConPCLcal.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Form1.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.HistoryUse.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing_Ezgo_Mater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\1. Project\1. Boxing line 3\MP run\Ver3_PC Local +5\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\Boxing line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Program Dev\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Program Dev\Boxing line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
+C:\Users\Administrator\Desktop\Program Dev\1. Boxing Line 3\Boxing Ezgo Mater\bin\Debug\Boxing Ezgo Mater.exe.config
+C:\Users\Administrator\Desktop\Program Dev\1. Boxing Line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\1. Boxing Line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.exe
+C:\Users\Administrator\Desktop\Program Dev\1. Boxing Line 3\Boxing Ezgo Mater\obj\Debug\Boxing Ezgo Mater.pdb
